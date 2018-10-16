@@ -1,13 +1,13 @@
 # yoga-image-classifier
 A deep learning algorithm to classify yoga poses:
 
- # Methodology :
+ # methodology :
 ![alt text](https://raw.githubusercontent.com/jay-uChicago/yoga-image-classifier/master/references/Methodology.png)
 
-# Model Architectures Attempted :
+# model architectures attempted :
 ![alt text](https://raw.githubusercontent.com/jay-uChicago/yoga-image-classifier/master/references/Model%20Performance.png)
 
-# Results :
+# results :
 ![alt text](https://raw.githubusercontent.com/jay-uChicago/yoga-image-classifier/master/references/Errors.png)
 
 
