@@ -8,7 +8,7 @@ This repository touches on the process by which we trained deep learning/ machin
 ![alt text](https://raw.githubusercontent.com/jay-uChicago/yoga-image-classifier/master/references/Model%20Performance.png)
 
 # results :
-![alt text](https://raw.githubusercontent.com/jay-uChicago/yoga-image-classifier/master/references/Results1.png)
+![alt text](https://raw.githubusercontent.com/jay-uChicago/yoga-image-classifier/master/references/Results.png)
 ![alt text](https://raw.githubusercontent.com/jay-uChicago/yoga-image-classifier/master/references/Errors.png)
 
 
